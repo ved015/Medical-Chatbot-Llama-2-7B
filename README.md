@@ -3,6 +3,7 @@ This project aims to develop a user-friendly medical chatbot that allows users t
 
 # Model Architecture
 -Data Collection: A large medical book was downloaded online, and the text was extracted.
+
 -Text Chunking: The extracted text was divided into manageable text chunks for further processing.
 -Text Embedding: Text chunks were converted into vector embeddings using advanced natural language processing techniques.
 -Vector Database: Vector embeddings were stored in Pinecone Vector Database for efficient retrieval and comparison.
