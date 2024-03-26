@@ -22,12 +22,12 @@ When a user submits a query, it is converted into vector embeddings.
 The top three ranked results are retrieved from the vector database based on similarity with the user query embeddings.
 
 **Response Generation:** 
-The retrieved embeddings are converted back into text, and then passed to the LLAMA-2-7B chat GPT model for analysis.
+The retrieved embeddings are converted back into text, and then passed to the LLAMA-2-7B Chat GGML model for analysis.
 
 **Final Response:** 
 The chat model generates the final response based on the analysis of the top three retrieved responses and sends it back to the user.
 
-![Model Architecture](/Users/vedantmahajan/Desktop/medical_chatbot/architecture.png)
+![Model Architecture](architecture.png)
 
 
 # Tools Used
