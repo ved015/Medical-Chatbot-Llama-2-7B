@@ -31,7 +31,14 @@ The chat model generates the final response based on the analysis of the top thr
 
 
 # Tools Used
--Pinecone: Utilized for storing and querying vector embeddings efficiently.
--Flask: Used for developing the web application interface.
--Hugging Face Transformers: Integrated for leveraging pre-trained language models like LLAMA-2-7B for response generation.
+
+**Pinecone:** 
+Utilized for storing and querying vector embeddings efficiently.
+
+**Flask:** 
+Used for developing the web application interface.
+
+**Hugging Face Transformers:** 
+Integrated for leveraging pre-trained language models like LLAMA-2-7B for response generation.
+
 
