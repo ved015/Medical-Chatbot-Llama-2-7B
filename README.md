@@ -1,9 +1,7 @@
 # Medical-Chatbot-Llama-2-7B
-    ## Medical Chat Bot
-
     This project aims to develop a user-friendly medical chatbot that allows users to query medical information and receive relevant responses efficiently. The chatbot utilizes advanced natural language processing techniques to interpret user queries and provide accurate responses.
 
-    ## Model Architecture
+# Model Architecture
 
     The model architecture involves several key steps:
 
@@ -23,11 +21,9 @@
 
     Final Response: The chat model generates the final response based on the analysis of the top three retrieved responses and sends it back to the user.
 
-    ## Tools Used
+# Tools Used
 
     Pinecone: Utilized for storing and querying vector embeddings efficiently.
     Flask: Used for developing the web application interface.
     Hugging Face Transformers: Integrated for leveraging pre-trained language models like LLAMA-2-7B for response generation.
 
-
-# Medical-Chatbot-Llama-2-7B
