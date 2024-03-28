@@ -1,5 +1,5 @@
 # Medical-Chatbot-Llama-2-7B
-This project aims to develop a user-friendly medical chatbot that allows users to query medical information and receive relevant responses efficiently. The chatbot utilizes advanced natural language processing techniques to interpret user queries and provide accurate responses.
+This project aims to develop a user-friendly medical chatbot that allows users to query medical information and receive relevant responses efficiently. It is a end to end RAG LLM app that uses llamaindex and shows how to use Retrieval-Augmented-Generation (RAG) in langchain.
 
 # Model Architecture
 
