@@ -10,7 +10,7 @@ A large medical book was downloaded online, and the text was extracted.
 The extracted text was divided into manageable text chunks for further processing.
 
 **Text Embedding:** 
-Text chunks were converted into vector embeddings using advanced natural language processing techniques.
+Text chunks were converted into vector embeddings using MiniLM-L6-v2.
 
 **Vector Database:** 
 Vector embeddings were stored in Pinecone Vector Database for efficient retrieval and comparison.
@@ -39,6 +39,6 @@ Utilized for storing and querying vector embeddings efficiently.
 Used for developing the web application interface.
 
 **Hugging Face Transformers:** 
-Integrated for leveraging pre-trained language models like LLAMA-2-7B for response generation.
+Integrated for leveraging pre-trained language models like MiniLM-L6-v2,LLAMA-2-7B for response generation.
 
 
